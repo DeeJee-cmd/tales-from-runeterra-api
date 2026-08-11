@@ -5,5 +5,5 @@
     <option name="pathToExecutable" value="C:\projects\tales_of_runetara_api\.venv\Scripts\black.exe" />
     <option name="sdkName" value="Python 3.11 (tales_of_runetara_api)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (tales_of_runetara_api)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (tales_of_runeterra_api)" project-jdk-type="Python SDK" />
 </project>
