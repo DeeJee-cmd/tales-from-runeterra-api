@@ -2,3 +2,4 @@
 .idea
 **__pycashe__
 .env
+db.sqlite3
