@@ -8,7 +8,7 @@ import sys
 def main():
     """Run administrative tasks."""
     os.environ.setdefault(
-        "DJANGO_SETTINGS_MODULE", "tales_of_runetara_api.settings"
+        "DJANGO_SETTINGS_MODULE", "tales_of_runeterra_api.settings"
     )
     try:
         from django.core.management import execute_from_command_line

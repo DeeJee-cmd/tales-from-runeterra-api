@@ -1,5 +1,5 @@
 """
-WSGI config for tales_of_runetara_api project.
+WSGI config for tales_of_runeterra_api project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -12,7 +12,7 @@ import os
 from django.core.wsgi import get_wsgi_application
 
 os.environ.setdefault(
-    "DJANGO_SETTINGS_MODULE", "tales_of_runetara_api.settings"
+    "DJANGO_SETTINGS_MODULE", "tales_of_runeterra_api.settings"
 )
 
 application = get_wsgi_application()

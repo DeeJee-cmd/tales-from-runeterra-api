@@ -1,5 +1,5 @@
 """
-URL configuration for tales_of_runetara_api project.
+URL configuration for tales_of_runeterra_api project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.2/topics/http/urls/
