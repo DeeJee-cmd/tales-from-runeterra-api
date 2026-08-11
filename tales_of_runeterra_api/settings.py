@@ -51,7 +51,7 @@ MIDDLEWARE = [
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
-ROOT_URLCONF = "tales_of_runetara_api.urls"
+ROOT_URLCONF = "tales_of_runeterra_api.urls"
 
 TEMPLATES = [
     {
